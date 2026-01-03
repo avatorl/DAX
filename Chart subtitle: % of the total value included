@@ -1,4 +1,4 @@
-//Chart subtitle: % of the interactions included
+//Chart subtitle - pct of the interactions included
 VAR _Included =
    CALCULATE (
         [Count of Interactions],
